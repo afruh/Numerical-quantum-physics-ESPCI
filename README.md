@@ -14,8 +14,6 @@ we propose to find approximate numerical solutions to the problem of the quantum
 
 ## Project
 Part A. Particle in a well with double potential steps
-![PartA](PartA.png?raw=true)
-
 Part B. Electron paramagnetic resonance in Ruby
 
 
