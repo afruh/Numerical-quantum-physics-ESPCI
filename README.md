@@ -13,9 +13,10 @@ we propose to find approximate numerical solutions to the problem of the quantum
 [1] The harmonic oscillator in quantum mechanics: A third way, F. Marsiglio, American Journal of Physics 77,253 (2009)
 
 ## Project
-Part A.
+Part A. Particle in a well with double potential steps
+![PartA](PartA.png?raw=true)
 
-Part B.
+Part B. Electron paramagnetic resonance in Ruby
 
 
 ## About
